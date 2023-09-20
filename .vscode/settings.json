@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "stdio.h": "c",
+        "iostream": "cpp",
+        "rrColor.h": "c",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    },
+    //"C_Cpp.errorSquiggles": "disabled",
+}
